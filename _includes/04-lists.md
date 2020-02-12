@@ -1,6 +1,6 @@
 
-*Item 1
+* Item 1
   :heart:
-*Item 2
+* Item 2
   :pizza:
 
